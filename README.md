@@ -1,16 +1,27 @@
-## Hi there 👋
+# Alejandro Juárez
 
-<!--
-**nullJum/nulljum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Architect | Full-Stack Developer
 
-Here are some ideas to get you started:
+Founder of JumEngine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focused on building practical systems for logistics, automation and scalable software.
+
+## Tech
+
+C# · Python · Apex  
+MongoDB · Salesforce · WPF · LWC
+
+## Projects
+
+WMS Engine
+Warehouse management modules and logistics workflows.
+
+Shipment Manager
+Salesforce based shipment orchestration system.
+
+Dart Calculator
+Experimental Flutter calculator implementation.
+
+## Links
+
+GitHub: https://github.com/nulljum
