@@ -19,9 +19,6 @@ Warehouse management modules and logistics workflows.
 Shipment Manager
 Salesforce based shipment orchestration system.
 
-Dart Calculator
-Experimental Flutter calculator implementation.
-
 ## Links
 
 GitHub: https://github.com/nulljum
